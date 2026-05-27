@@ -1,0 +1,103 @@
+{
+  "version": 3.48,
+  "message": "Up Date App
+🎁 กรุณาอัปเดทแอปเป็นระบบใหม่ที่ PlayStore เพื่อการใช้งานอย่างต่อเนื่อง",
+  "data": [
+    {
+      "name": "TH-5 TRUE FB Gaming-Ready 1 🎮 🎮",
+      "content": "vless://5d88de81-6e25-427b-8818-5c492da81dc4@www.opensignal.com.true-8.misternut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
+    },
+    {
+      "name": "TH-5 TRUE FB Gaming-Ready 2 🎮 🎮",
+      "content": "vless://5d88de81-6e25-427b-8818-5c492da81dc4@www.opensignal.com.readyidc-4.misterpnut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
+    },
+    {
+      "name": "TH-5 TRUE FB Gaming-Ready 3 🎮 🎮",
+      "content": "vless://5d88de81-6e25-427b-8818-5c492da81dc4@www.opensignal.com.true-16.misternut.uk:11111?security=tls&encryption=none&headerType=none&type=tcp&sni=fbcdn.net#true+fb+gaming"
+    },
+    {
+      "name": "TH AIS-AisPlay 1-Ready 🟢",
+      "content": "vless://dec24ab9-1dd8-4c4a-9999-459d87912e59@www.opensignal.com.true-8.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-AisPlay 2-Ready 🟢",
+      "content": "vless://dec24ab9-1dd8-4c4a-9999-459d87912e59@www.opensignal.com.readyidc-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-AisPlay 3-Ready 🟢",
+      "content": "vless://dec24ab9-1dd8-4c4a-9999-459d87912e59@www.opensignal.com.true-16.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-AisPlay 4-Ready 🟢",
+      "content": "vless://dec24ab9-1dd8-4c4a-9999-459d87912e59@rd-v-1.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-AisPlay 5-Ready 🟢",
+      "content": "vless://dec24ab9-1dd8-4c4a-9999-459d87912e59@rd-v-2.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-AisPlay 6-Ready 🟢",
+      "content": "vless://dec24ab9-1dd8-4c4a-9999-459d87912e59@rd-v-3.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH AIS-AisPlay 7-Ready 🟢",
+      "content": "vless://dec24ab9-1dd8-4c4a-9999-459d87912e59@rd-v-4.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http"
+    },
+    {
+      "name": "TH-1 TRUE เรียนฟรี [VROOM] 1-Ready 📔📝",
+      "content": "vless://127d15cc-5171-4349-96ff-e9d873ebca87@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray"
+    },
+    {
+      "name": "TH-1 TRUE เรียนฟรี [VROOM] 2-Ready 📔📝",
+      "content": "vless://127d15cc-5171-4349-96ff-e9d873ebca87@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=www.opensignal.com.true-16.misternut.uk&path=%2Fray"
+    },
+    {
+      "name": "TH-1 TRUE เรียนฟรี [VROOM] 3-Ready 📔📝",
+      "content": "vless://127d15cc-5171-4349-96ff-e9d873ebca87@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=www.opensignal.com.true-8.misternut.uk&path=%2Fray"
+    },
+    {
+      "name": "TH-1 TRUE เรียนฟรี [VROOM] 4-Ready 📔📝",
+      "content": "vless://127d15cc-5171-4349-96ff-e9d873ebca87@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=rd-v-1.misternut.uk&path=%2Fray"
+    },
+    {
+      "name": "TH-1 TRUE เรียนฟรี [VROOM] 5-Ready 📔📝",
+      "content": "vless://127d15cc-5171-4349-96ff-e9d873ebca87@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=rd-v-2.misternut.uk&path=%2Fray"
+    },
+    {
+      "name": "TH-1 TRUE เรียนฟรี [VROOM] 6-Ready 📔📝",
+      "content": "vless://127d15cc-5171-4349-96ff-e9d873ebca87@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=rd-v-3.misternut.uk&path=%2Fray"
+    },
+    {
+      "name": "TH-1 TRUE เรียนฟรี [VROOM] 7-Ready 📔📝",
+      "content": "vless://127d15cc-5171-4349-96ff-e9d873ebca87@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=rd-v-4.misternut.uk&path=%2Fray"
+    },
+    {
+      "name": "TH AIS กันรั่ว 1-Ready 🟢🟢",
+      "content": "vless://dec24ab9-1dd8-4c4a-9999-459d87912e59@www.opensignal.com.true-16.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#aisกันรั่ว"
+    },
+    {
+      "name": "TH AIS กันรั่ว 2-Ready 🟢🟢",
+      "content": "vless://dec24ab9-1dd8-4c4a-9999-459d87912e59@www.opensignal.com.true-8.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#aisกันรั่ว"
+    },
+    {
+      "name": "TH AIS กันรั่ว 3-Ready 🟢🟢",
+      "content": "vless://dec24ab9-1dd8-4c4a-9999-459d87912e59@www.opensignal.com.readyidc-4.misterpnut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#aisกันรั่ว"
+    },
+    {
+      "name": "TH AIS กันรั่ว 4-Ready 🟢🟢",
+      "content": "vless://dec24ab9-1dd8-4c4a-9999-459d87912e59@rd-v-1.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#aisกันรั่ว"
+    },
+    {
+      "name": "TH AIS กันรั่ว 5-Ready 🟢🟢",
+      "content": "vless://dec24ab9-1dd8-4c4a-9999-459d87912e59@rd-v-2.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#aisกันรั่ว"
+    },
+    {
+      "name": "TH AIS กันรั่ว 6-Ready 🟢🟢",
+      "content": "vless://dec24ab9-1dd8-4c4a-9999-459d87912e59@rd-v-3.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#aisกันรั่ว"
+    },
+    {
+      "name": "TH AIS กันรั่ว 7-Ready 🟢🟢",
+      "content": "vless://dec24ab9-1dd8-4c4a-9999-459d87912e59@rd-v-4.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#aisกันรั่ว"
+    }
+  ]
+}
